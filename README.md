@@ -17,22 +17,24 @@
 
 ## Quá trình làm việc
 ### 04/01/2021
-Nhận xét quá trình khám phá:
+#### Nhận xét quá trình khám phá:
 - Thay đổi góc nhìn để tìm câu hỏi: từ góc nhìn "Mình có thể giải quyết vấn đề gì?" sang góc nhìn "Là một <b>người dùng web phổ thông</b>, mình có vấn đề gì có thể giải quyết?".
 - Dữ liệu dạng chữ rất dồi dào (báo mạng, mạng xã hội, blog,...).
 
-Quyết định: khai thác dữ liệu báo mạng vì đây là nguồn dữ liệu có chuyên môn và sử dụng ngôn ngữ chuyên nghiệp, bên cạnh đó các bài báo đều có chủ đề để có thể phục vụ cho tác vụ phân lớp.
+#### Quyết định:
+khai thác dữ liệu báo mạng vì đây là nguồn dữ liệu có chuyên môn và sử dụng ngôn ngữ chuyên nghiệp, bên cạnh đó các bài báo đều có chủ đề để có thể phục vụ cho tác vụ phân lớp.
 
-Phân công:
+#### Phân công:
 - Lợi: tìm hiểu các vấn đề thiên về kỹ thuật (code). Nhiệm vụ trước mắt là tìm hiểu và khai thác dữ liệu báo mạng.
 - Long: quản lý các báo cáo, tiếp nhận các kết quả truyền thông từ Lợi, sau đó tìm hiểu các hướng để giải quyết vấn đề và thực hiện phân công. Nhiệm vụ trước mắt là hỗ trợ Lợi trong khai thác dữ liệu báo mạng.
 
 ### 01/01/2021
-Nhận xét quá trình khám phá trước đó:
+#### Nhận xét quá trình khám phá trước đó:
 - Rất khó để có thể tìm được data giải quyết các vấn đề mà nhóm nghĩ ra (môi trường, y tế, giao thông, thời tiết,...).
 - Các data dạng bảng tính thường chỉ tìm được tại các cổng lưu trữ dữ liệu. Tuy nhiên loại này thì phải tải về chứ không phải sử dụng api hoặc parse html.
 
-Phân công: tiếp tục tìm hiểu, mail hỏi ý kiến giáo viên xem sử dụng loại dữ liệu này được không.
+#### Phân công:
+Tiếp tục tìm hiểu, mail hỏi ý kiến giáo viên xem sử dụng loại dữ liệu này được không.
 
 ### 26/12/2020
 Mới nhận thông tin đồ án từ giáo viên. Phân công tất cả thành viên khám phá những thông tin sau:

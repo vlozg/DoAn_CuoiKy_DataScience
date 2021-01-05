@@ -1,15 +1,25 @@
 # Đồ án cuối kỳ môn Nhập môn khoa học dữ liệu
-## Thông tin nhóm:
+## Thông tin nhóm
 - STT: 12
 - Thành viên:
   - Vũ Đăng Hoàng Long (18120203)
   - Nguyễn Huỳnh Đại Lợi (18120198)
   
+## Phân công chính
+### Long
+- Quản lý các báo cáo.
+- Tiếp nhận các kết quả truyền thông từ nhóm, sau đó tìm hiểu các hướng để giải quyết vấn đề và gợi ý thảo luận trong nhóm.
+- Thực hiện phân công.
+
+### Lợi
+- Tìm hiểu các vấn đề liên quan đến kỹ thuật (code).
+- Tiếp nhận phân công và truyền thông lại kết quả thu được.
+
 ## Quá trình làm việc
 ### 04/01/2021
 Nhận xét quá trình khám phá:
 - Thay đổi góc nhìn để tìm câu hỏi: từ góc nhìn "Mình có thể giải quyết vấn đề gì?" sang góc nhìn "Là một <b>người dùng web phổ thông</b>, mình có vấn đề gì có thể giải quyết?".
-- Dữ liệu dạng chữ rất dồi dào (báo mạng, mạng xã hội, blog,...)
+- Dữ liệu dạng chữ rất dồi dào (báo mạng, mạng xã hội, blog,...).
 
 Quyết định: khai thác dữ liệu báo mạng vì đây là nguồn dữ liệu có chuyên môn và sử dụng ngôn ngữ chuyên nghiệp, bên cạnh đó các bài báo đều có chủ đề để có thể phục vụ cho tác vụ phân lớp.
 

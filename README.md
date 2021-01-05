@@ -16,13 +16,33 @@
 - Tiếp nhận phân công và truyền thông lại kết quả thu được.
 
 ## Quá trình làm việc
+### Chiều 05/01/2021
+- Hoàn thành khai thác được khoảng 47.000 bài báo.
+- Câu hỏi trước đó thiếu tính ứng dụng do hầu hết người viết báo ra đều thực hiện gắn nhãn cho bài báo rồi mới đăng tải.
+
+#### Quyết định:
+Thay đổi câu hỏi thành: Với một đoạn hội thoại bất kỳ, làm sao để biết đoạn hội thoại này nói về chủ đề gì?
+
+#### Phân công:
+- Long: tiếp tục thực hiện khai thác hàng loạt. Tiến hành viết báo cáo (hơi muộn vì trước đó phải mất thời gian khám phá).
+- Lợi: tiến hành khai phá dữ liệu và truyền thông lại kết quả khai phá cho Long (quy trình khai thác) để khắc phục các vấn đề trong dữ liệu khai thác được.
+- Sau khi khắc phục xong quá trình khai thác dữ liệu, cả nhóm sẽ chuyển qua tiền xử lý và tìm hiểu các kiến thức cần thiết để có thể phân tích dữ liệu này.
+
+### Sáng 05/01/2021
+Hoàn thành xây dựng code để khai thác dữ liệu từ nguồn báo Tuổi Trẻ Online (https://tuoitre.vn/). Tuy nhiên cách khai thác cũ sử dụng Selenuim để khai thác thiếu hiệu quá và tiêu hao quá nhiều tài nguyên máy nên đã phải tìm hiểu lại cách mới.
+
+#### Phân công:
+- Long: thực hiện thay đổi phương thức khai thác để hiệu quả hơn và treo máy để khai thác dữ liệu qua đêm.
+- Lợi: tạm thời nghỉ ngơi, chờ nhận dữ liệu để chuyển qua bước khai phá dữ liệu và tiền xử lý.
+
 ### 04/01/2021
 #### Nhận xét quá trình khám phá:
 - Thay đổi góc nhìn để tìm câu hỏi: từ góc nhìn "Mình có thể giải quyết vấn đề gì?" sang góc nhìn "Là một <b>người dùng web phổ thông</b>, mình có vấn đề gì có thể giải quyết?".
 - Dữ liệu dạng chữ rất dồi dào (báo mạng, mạng xã hội, blog,...).
 
 #### Quyết định:
-khai thác dữ liệu báo mạng vì đây là nguồn dữ liệu có chuyên môn và sử dụng ngôn ngữ chuyên nghiệp, bên cạnh đó các bài báo đều có chủ đề để có thể phục vụ cho tác vụ phân lớp.
+- Khai thác dữ liệu báo mạng vì đây là nguồn dữ liệu có chuyên môn và sử dụng ngôn ngữ chuyên nghiệp, bên cạnh đó các bài báo đều có chủ đề để có thể phục vụ cho tác vụ phân lớp.
+- Câu hỏi: Làm sao để biết một bài báo bất kỳ thuộc chủ đề gì?
 
 #### Phân công:
 - Lợi: tìm hiểu các vấn đề thiên về kỹ thuật (code). Nhiệm vụ trước mắt là tìm hiểu và khai thác dữ liệu báo mạng.

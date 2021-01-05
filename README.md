@@ -29,7 +29,7 @@ Thay đổi câu hỏi thành: Với một đoạn hội thoại bất kỳ, là
 - Sau khi khắc phục xong quá trình khai thác dữ liệu, cả nhóm sẽ chuyển qua tiền xử lý và tìm hiểu các kiến thức cần thiết để có thể phân tích dữ liệu này.
 
 ### Sáng 05/01/2021
-Hoàn thành xây dựng code để khai thác dữ liệu từ nguồn báo Tuổi Trẻ Online (https://tuoitre.vn/). Tuy nhiên cách khai thác cũ sử dụng Selenuim để khai thác thiếu hiệu quá và tiêu hao quá nhiều tài nguyên máy nên đã phải tìm hiểu lại cách mới.
+Hoàn thành xây dựng code để khai thác dữ liệu từ nguồn báo Tuổi Trẻ Online (https://tuoitre.vn/). Tuy nhiên cách khai thác cũ sử dụng Selenium để khai thác thiếu hiệu quá và tiêu hao quá nhiều tài nguyên máy nên đã phải tìm hiểu lại cách mới.
 
 #### Phân công:
 - Long: thực hiện thay đổi phương thức khai thác để hiệu quả hơn và treo máy để khai thác dữ liệu qua đêm.

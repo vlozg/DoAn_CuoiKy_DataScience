@@ -38,6 +38,7 @@ Hoàn thành xây dựng code để khai thác dữ liệu từ nguồn báo Tu�
 ### 04/01/2021
 #### Nhận xét quá trình khám phá:
 - Thay đổi góc nhìn để tìm câu hỏi: từ góc nhìn "Mình có thể giải quyết vấn đề gì?" sang góc nhìn "Là một <b>người dùng web phổ thông</b>, mình có vấn đề gì có thể giải quyết?".
+--> Với góc nhìn này, các câu hỏi đặt ra sẽ phần lớn phục vụ cho nhu cầu của người dùng hơn là nhu cầu của doanh nghiêp hay nhu cầu vĩ mô của toàn xã hội.
 - Dữ liệu dạng chữ rất dồi dào (báo mạng, mạng xã hội, blog,...).
 
 #### Quyết định:

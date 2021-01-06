@@ -16,6 +16,13 @@
 - Tiếp nhận phân công và truyền thông lại kết quả thu được.
 
 ## Quá trình làm việc
+### Chiều 06/01/2021
+- Tạm thời hoàn tất khai phá.
+
+#### Phân công
+- Long: tiếp quản quá trình khai phá và tiền xử lý.
+- Lợi: chuyển sang thử nghiệm xây dựng model.
+
 ### Chiều 05/01/2021
 - Hoàn thành khai thác được khoảng 47.000 bài báo.
 - Câu hỏi trước đó thiếu tính ứng dụng do hầu hết người viết báo ra đều thực hiện gắn nhãn cho bài báo rồi mới đăng tải.

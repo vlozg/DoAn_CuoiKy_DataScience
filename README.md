@@ -16,6 +16,10 @@
 - Tiếp nhận phân công và truyền thông lại kết quả thu được.
 
 ## Quá trình làm việc
+### Sáng 07/01/2021
+- Hoàn tất khắc phục xong các vấn đề cản trở khai thác dữ liệu.
+- Hoàn thành notebook phần khai thác dữ liệu
+
 ### Chiều 06/01/2021
 - Tạm thời hoàn tất khai phá.
 

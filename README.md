@@ -21,7 +21,7 @@
 - Hoàn tất thu thập báo (hơn 800.000 bài).
 
 #### Phân công
-- Tạm thời Long sẽ tiếp quản toàn bộ công việc của Lợi
+- Tạm thời Long sẽ tiếp quản toàn bộ công việc của Lợi.
 
 ### Sáng 07/01/2021
 - Hoàn tất khắc phục xong các vấn đề cản trở khai thác dữ liệu.

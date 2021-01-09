@@ -77,5 +77,5 @@ Tiếp tục tìm hiểu, mail hỏi ý kiến giáo viên xem sử dụng loạ
 
 ### 26/12/2020
 Mới nhận thông tin đồ án từ giáo viên. Phân công tất cả thành viên khám phá những thông tin sau:
-- Dữ liệu có thể thu thậo được.
+- Dữ liệu có thể thu thập được.
 - Các câu hỏi <b>có khả năng</b> trả lời được.

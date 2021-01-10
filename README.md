@@ -16,6 +16,14 @@
 - Tiếp nhận phân công và truyền thông lại kết quả thu được.
 
 ## Quá trình làm việc
+### 10/01/2021
+- Lợi sửa được laptop.
+- Task tiền xử lý khá chậm chạp.
+
+#### Phân công
+- Lợi: tiếp tục tìm hiểu xây dựng mô hình học.
+- Long: tối ưu khâu tiền xử lý để có thể xử lý nhanh chóng toàn bộ dữ liệu.
+
 ### 08/01/2021
 - Lợi bị hư laptop.
 - Hoàn tất thu thập báo (hơn 800.000 bài).

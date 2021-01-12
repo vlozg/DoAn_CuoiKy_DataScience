@@ -16,6 +16,13 @@
 - Tiếp nhận phân công và truyền thông lại kết quả thu được.
 
 ## Quá trình làm việc
+### 12/01/2021
+- Hoàn thành chuẩn hóa toàn bộ dữ liệu.
+- Thử nghiệm tiền xử lý thành công.
+
+#### Phân công
+- Lợi: xây dựng mô hình học hôm sau.
+- Long: tiến hành báo cáo phần khám phá và tiền xử lý.
 ### 10/01/2021
 - Lợi sửa được laptop.
 - Task tiền xử lý khá chậm chạp.

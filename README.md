@@ -16,6 +16,13 @@
 - Tiếp nhận phân công và truyền thông lại kết quả thu được.
 
 ## Quá trình làm việc
+### 13/01/2021
+- Thầy yêu cầu nộp đồ án vào ngày 14/01/2021.
+- Thử nghiệm xong mô hình.
+
+#### Phân công
+- Tất cả cùng hoàn thành báo cáo và slide để nộp.
+
 ### 12/01/2021
 - Hoàn thành chuẩn hóa toàn bộ dữ liệu.
 - Thử nghiệm tiền xử lý thành công.

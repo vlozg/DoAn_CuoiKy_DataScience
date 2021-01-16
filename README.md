@@ -31,10 +31,10 @@ Mục đích:
 
 ---
 # Cấu trúc github
-|----resources/ : thư mục chứa các file hình ảnh dùng trong notebook Final.ipynb.
-|----src/ : thư mục chứa các file data thu thập được, các notebook không dùng đến nhưng phát sinh trong quá trình làm việc nhóm để trao đổi, pickle của mô hình học được.
-|
-|--Final.ipynb : file notebook chính dùng để báo cáo, tất thảy mọi thứ đều ở đây <3.
-|--Demo_Model.ipynb : notebook này dự tính sẽ lấy các pickle của model đã train sẵn từ file final.ipynb để phục vụ dự đoán đoạn văn bản ngẫu nhiên. Tuy nhiên do một số trục trặc pickle nhóm vẫn chưa thể chạy được.
-|--Slide.pdf\/Slide.pptx : file powerpoint và bản pdf để coi tránh lỗi font, hình,...
-|--Teamwork.pdf : file báo cáo quá trình làm việc của nhóm
+|----resources/ : thư mục chứa các file hình ảnh dùng trong notebook Final.ipynb.<br>
+|----src/ : thư mục chứa các file data thu thập được, các notebook không dùng đến nhưng phát sinh trong quá trình làm việc nhóm để trao đổi, pickle của mô hình học được.<br>
+|<br>
+|--Final.ipynb : file notebook chính dùng để báo cáo, tất thảy mọi thứ đều ở đây <3.<br>
+|--Demo_Model.ipynb : notebook này dự tính sẽ lấy các pickle của model đã train sẵn từ file final.ipynb để phục vụ dự đoán đoạn văn bản ngẫu nhiên. Tuy nhiên do một số trục trặc pickle nhóm vẫn chưa thể chạy được.<br>
+|--Slide.pdf\/Slide.pptx : file powerpoint và bản pdf để coi tránh lỗi font, hình,...<br>
+|--Teamwork.pdf : file báo cáo quá trình làm việc của nhóm<br>

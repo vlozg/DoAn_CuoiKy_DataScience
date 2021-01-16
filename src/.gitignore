@@ -1,6 +1,7 @@
 # Don't track content of these folders
 .ipynb_checkpoints/
-
+__pycache__/
+saved_model/
 
 # Compiled source #
 ###################

@@ -37,6 +37,18 @@ Trên không gian Internet, *dữ liệu dạng chữ xuất hiện rộng khắ
 - Chủ quan: lọc các bài viết trên mạng xã hội theo chủ đề mà em quan tâm để tránh lãng phí thời gian lướt facebook chỉ để tìm chủ đề mà em quan tâm 🥴.
 
 ---
+# Tổ chức github
+## Folders
+- report/ : chứa file báo cáo quá trình làm việc và powerpoint.<br>
+- resources/ : chứa hình ảnh trong notebook Final.ipynb.<br>
+- src/ : chứa data thu thập được, notebook phát sinh trong quá trình làm việc nhóm để trao đổi.<br>
+## Files
+- `Final.ipynb`: notebook chính dùng để báo cáo, nêu chi tiết về quá trình thực hiện đồ án của nhóm.<br>
+- `Demo_Model.ipynb`: notebook này dự tính sẽ lấy các pickle của model đã train sẵn từ file final.ipynb để phục vụ dự đoán đoạn văn bản ngẫu nhiên.<br>
+- `Batch_process.ipynb`: notebook chứa các đoạn code dùng phục vụ cho việc xử lý dữ liệu hàng loạt (do công việc này tốn thời gian và cần đoạn code dài dòng nên nhóm loại khỏi notebook chính để tránh gây rối).<br>
+- `Slide.pdf`: bản pdf của powerpoint để coi tránh lỗi font, hình,...<br>
+
+---
 # Một số hình ảnh demo model
 (sử dụng [LIME](https://github.com/marcotcr/lime) để trực quan hóa)
 
@@ -71,18 +83,6 @@ Cũng ổn 👌<br><br>
 
 👌👀💅<br><br>
 ![Mô hình MLP - Test 2](resources/test2_mlp.png)
-
----
-# Tổ chức github
-## Folders
-- report/ : chứa file báo cáo quá trình làm việc và powerpoint.<br>
-- resources/ : chứa hình ảnh trong notebook Final.ipynb.<br>
-- src/ : chứa data thu thập được, notebook phát sinh trong quá trình làm việc nhóm để trao đổi.<br>
-## Files
-- `Final.ipynb`: notebook chính dùng để báo cáo, nêu chi tiết về quá trình thực hiện đồ án của nhóm.<br>
-- `Demo_Model.ipynb`: notebook này dự tính sẽ lấy các pickle của model đã train sẵn từ file final.ipynb để phục vụ dự đoán đoạn văn bản ngẫu nhiên.<br>
-- `Batch_process.ipynb`: notebook chứa các đoạn code dùng phục vụ cho việc xử lý dữ liệu hàng loạt (do công việc này tốn thời gian và cần đoạn code dài dòng nên nhóm loại khỏi notebook chính để tránh gây rối).<br>
-- `Slide.pdf`: bản pdf của powerpoint để coi tránh lỗi font, hình,...<br>
 
 ---
 # Tham khảo
